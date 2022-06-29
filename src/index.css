@@ -94,7 +94,7 @@ header button {
 }
 
 .Items li.in-cart span {
-  text-decoration: line-through;
+text-decoration: line-through;
 }
 
 .Items button.add {
